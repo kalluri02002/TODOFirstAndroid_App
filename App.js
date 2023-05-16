@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { useState } from 'react';
 import { StyleSheet, Text, View ,Button, TextInput,Pressable,FlatList} from 'react-native';
-// FlatList it is used when user crolled it renderd
+// FlatList it is used when user Srolled it renderd
 
 export default function App() {
   const [EnterdText,setTect]=useState("")
